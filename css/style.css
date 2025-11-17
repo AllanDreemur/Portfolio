@@ -631,7 +631,8 @@ section.active {
 }
 
 .contact-box h2 {
-    font-size: 4.5rem;
+    font-size: 4rem;
+    margin-top: 2rem;
 }
 
 .contact-box p {
